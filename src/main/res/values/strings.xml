@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">musicplayerdemo</string>
+    <string name="dialog_notification_access_title">标题</string>
+    <string name="dialog_notification_access_message">内容</string>
+    <string name="dialog_notification_access_positive">确定</string>
+    <string name="dialog_notification_access_negative">取消</string>
+    <string name="media_idle">音乐</string>
+    <string name="select_music_apps">选择音乐应用</string>
+    <string name="play_music">放一个歌来听呗!</string>
+</resources>

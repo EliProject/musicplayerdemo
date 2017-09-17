@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/popup_menu_itme1" android:title="@string/dialog_notification_access_message" android:icon="@drawable/ic_skip_next_white_24dp"
+        android:orderInCategory="100"/>
+    <item android:id="@+id/popup_menu_itme2" android:title="@string/dialog_notification_access_message"
+        android:orderInCategory="100"/>
+    <item android:id="@+id/popup_menu_itme3" android:title="@string/dialog_notification_access_message"
+        android:orderInCategory="100"/>
+
+</menu>
